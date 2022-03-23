@@ -1,8 +1,10 @@
 ## Методы и средства ПИ, лаба №1
 
-[//]: # (### Примеры кода:)
-[//]: # (+ [Жека]&#40;https://github.com/3ilib0ba/ITMO-Embedded-Systems/tree/main/lab-1&#41;)
-[//]: # (+ [Боря]&#40;&#41; <- добавить ссылку)
+### Примеры отчётов(лаб):
+
++ [Жека и Егор](https://docs.google.com/document/d/1A9TrwWP_QRvoPZtFLav-52A5TQgOlqtl5Ej8dghAmoE/edit)
++ [Боря и Ваня](https://docs.google.com/document/d/1OPE2YlC8NV3KQVlfrg6DObhXXIxvjie4fjg7em_Fiw0/edit)
++ [Максим и Булат](https://docs.google.com/document/d/1oQCxdiNKbvSHoHgtXDc3KNF3miqDCsajO-kNeiDmfNQ/edit?usp=sharing)
 
 ### Примеры SRS документа: 
 
@@ -176,6 +178,7 @@
 1) **Расскажите о рисках, какие они бывают?**
 
 В презентации всё прекрасно рассказано
+
 ![img.png](resources/riski.png)
 
 2) **Расскажите о типах UML диаграмм, нарисуйте пример диаграммы последовательностей.**
