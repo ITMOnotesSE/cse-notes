@@ -10,7 +10,7 @@
 
 + [На java](https://github.com/rosroble/ITMO-comp-math/tree/517ca3e9ee13063edc69c5e16fe4ba21cb2a4372/approximation%20(4))
 + [На лучшем языке мира, ещё и с интерфейсом](https://github.com/3ilib0ba/ITMO-Comput-Math-4)
-+ [На Go]() <- добавить
++ [На Go](https://github.com/petuch03/cmath-labs/tree/master/lab-4)
 
 ### Сделал для вас удобный эксель для расчётов всяких мер отклонения да и просто:
 
