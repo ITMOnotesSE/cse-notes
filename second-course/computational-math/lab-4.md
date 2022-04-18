@@ -4,7 +4,7 @@
 
 + [Боря](https://docs.google.com/document/d/1M4GXP7U_q1F-5RTUqTSjx3kFuubwE71kbjjJ-ou3his/edit)
 + [Жека](https://github.com/3ilib0ba/ITMO-Comput-Math-4/raw/master/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-P3213.docx)
-+ [е-Go-р](https://github.com/petuch03/cmath-labs/blob/master/lab-4/resources/Safronov-lab-4.docx)
++ [е-Go-р](https://github.com/petuch03/cmath-labs/raw/master/lab-4/resources/Safronov-lab-4.docx)
 
 ### Ссылки на код:
 
