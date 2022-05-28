@@ -2,7 +2,7 @@
 
 ### Примеры кода:
 + [Жека](https://github.com/3ilib0ba/ITMO-Embedded-Systems/tree/main/lab-1)
-+ [Боря]() <- добавить ссылку
++ [Боря](https://github.com/rosroble/ITMO-embsys)
 
 ### Про подготовку, материал:
 
