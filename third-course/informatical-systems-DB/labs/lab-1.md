@@ -13,6 +13,8 @@
 
 ### Вопросы:
 
+0) [ГРОБАРИЙ одной из групп](https://docs.google.com/spreadsheets/d/1XHTeHz4JamMleC6J_s8T6VthJ2AZ61gjWYiVGsw5_P8/edit#gid=0)
+
 1) Вывести список зданий по убыванию в количестве их взаимодействий
 
 ![img](images/l1q1.png)
